@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqMethodSyntaxExercise", "LinqMethodSyntaxExercise\LinqMethodSyntaxExercise.csproj", "{EDB70D76-8D38-41C7-AF14-14B6BCFCCDEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDB70D76-8D38-41C7-AF14-14B6BCFCCDEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDB70D76-8D38-41C7-AF14-14B6BCFCCDEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDB70D76-8D38-41C7-AF14-14B6BCFCCDEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDB70D76-8D38-41C7-AF14-14B6BCFCCDEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+/Users/andrewmcmahon/Desktop/Repos/LinqMethodSyntaxExercise/LinqMethodSyntaxExercise/bin/Debug/netcoreapp3.1/LinqMethodSyntaxExercise
+/Users/andrewmcmahon/Desktop/Repos/LinqMethodSyntaxExercise/LinqMethodSyntaxExercise/bin/Debug/netcoreapp3.1/LinqMethodSyntaxExercise.deps.json
+/Users/andrewmcmahon/Desktop/Repos/LinqMethodSyntaxExercise/LinqMethodSyntaxExercise/bin/Debug/netcoreapp3.1/LinqMethodSyntaxExercise.runtimeconfig.json
+/Users/andrewmcmahon/Desktop/Repos/LinqMethodSyntaxExercise/LinqMethodSyntaxExercise/bin/Debug/netcoreapp3.1/LinqMethodSyntaxExercise.runtimeconfig.dev.json
+/Users/andrewmcmahon/Desktop/Repos/LinqMethodSyntaxExercise/LinqMethodSyntaxExercise/bin/Debug/netcoreapp3.1/LinqMethodSyntaxExercise.dll
+/Users/andrewmcmahon/Desktop/Repos/LinqMethodSyntaxExercise/LinqMethodSyntaxExercise/bin/Debug/netcoreapp3.1/LinqMethodSyntaxExercise.pdb
+/Users/andrewmcmahon/Desktop/Repos/LinqMethodSyntaxExercise/LinqMethodSyntaxExercise/obj/Debug/netcoreapp3.1/LinqMethodSyntaxExercise.csprojAssemblyReference.cache
+/Users/andrewmcmahon/Desktop/Repos/LinqMethodSyntaxExercise/LinqMethodSyntaxExercise/obj/Debug/netcoreapp3.1/LinqMethodSyntaxExercise.AssemblyInfoInputs.cache
+/Users/andrewmcmahon/Desktop/Repos/LinqMethodSyntaxExercise/LinqMethodSyntaxExercise/obj/Debug/netcoreapp3.1/LinqMethodSyntaxExercise.AssemblyInfo.cs
+/Users/andrewmcmahon/Desktop/Repos/LinqMethodSyntaxExercise/LinqMethodSyntaxExercise/obj/Debug/netcoreapp3.1/LinqMethodSyntaxExercise.dll
+/Users/andrewmcmahon/Desktop/Repos/LinqMethodSyntaxExercise/LinqMethodSyntaxExercise/obj/Debug/netcoreapp3.1/LinqMethodSyntaxExercise.pdb
